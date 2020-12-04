@@ -39,11 +39,11 @@ remix is a web IDE for Solidity. [remix](https://remix.ethereum.org/)
 import the contract code you download above. choose contact code,import into remix file section.
 
 picture1
-![picture1](../remix1.png)
+![picture1](https://github.com/LostPengK/uniswapRepo/blob/main/remix1.png)
 picture1
-![picture2](../remix2.png)
+![picture2](https://github.com/LostPengK/uniswapRepo/blob/main/remix2.png)
 picture1
-![picture3](../remix3.png)
+![picture3](https://github.com/LostPengK/uniswapRepo/blob/main/remix3.png)
 
 ##### step
 
